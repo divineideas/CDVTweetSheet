@@ -3,11 +3,11 @@
 
 #####For iOS only, by [Dom O'Connell](http://www.divineideasgroup.com)
 
-1. [Description](https://github.com/divineideas/CDVTweetSheet#1-Description)
-2. [Installation](https://github.com/divineideas/CDVTweetSheet#2-Installation)
-3. [Usage](https://github.com/divineideas/CDVTweetSheet#3-Usage)
-4. [Credits](https://github.com/divineideas/CDVTweetSheet#4-Credits)
-5. [License](https://github.com/divineideas/CDVTweetSheet#5-License)
+1. [Description](https://github.com/divineideas/CDVTweetSheet#1-description)
+2. [Installation](https://github.com/divineideas/CDVTweetSheet#2-installation)
+3. [Usage](https://github.com/divineideas/CDVTweetSheet#3-usage)
+4. [Credits](https://github.com/divineideas/CDVTweetSheet#4-credits)
+5. [License](https://github.com/divineideas/CDVTweetSheet#5-license)
 
 ## 1. Description
 
