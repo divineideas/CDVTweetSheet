@@ -29,5 +29,8 @@ var platform = require('cordova/platform');
 module.exports = {
 	opentweetsheet: function(msg) {
         exec(null, null, "CDVTweetSheet", "opentweetsheet", [msg]);
+    },
+	openlink: function(url) {
+        exec(null, null, 'CDVTweetSheet', 'openlink', [url]);
     }
 }

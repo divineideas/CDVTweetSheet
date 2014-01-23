@@ -15,6 +15,13 @@
     [tweetsheet setInitialText:dateStr];
     [self.viewController presentModalViewController:tweetsheet animated:YES];
 }
+- (void) openlink:(CDVInvokedUrlCommand *)command {
+    NSString *dateStr = [command.arguments objectAtIndex:0];
+    //  [[self sharedApplication] openURL:[dateStr]];
+    NSURL *url = [NSURL URLWithString:dateStr];
+    NSLog(@"opening: %@",url);
+    [[UIApplication sharedApplication] openURL: url];
+}
 
 
 @end

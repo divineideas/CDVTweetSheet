@@ -4,5 +4,6 @@
 @interface CDVTweetSheet : CDVPlugin
 
 - (void) opentweetsheet:(CDVInvokedUrlCommand *)command;
+- (void) openlink:(CDVInvokedUrlCommand *)command;
 
 @end
