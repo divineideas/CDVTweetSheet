@@ -1,5 +1,4 @@
 # PhoneGap Native Twitter Plugin
-===================================
 
 #####For iOS only, by [Dom O'Connell](http://www.divineideasgroup.com)
 
