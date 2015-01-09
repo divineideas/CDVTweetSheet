@@ -3,6 +3,6 @@
 
 @interface CDVTweetSheet : CDVPlugin
 
-- (void) openlink:(CDVInvokedUrlCommand *)command;
+- (void) openlink:(CDVInvokedUrlCommand *)
 
 @end
