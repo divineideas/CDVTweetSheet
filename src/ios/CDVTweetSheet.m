@@ -9,12 +9,7 @@
 #import "CDVTweetSheet.h"
 
 @implementation CDVTweetSheet
-- (void) opentweetsheet:(CDVInvokedUrlCommand *)command {
-    NSString *dateStr = [command.arguments objectAtIndex:0];
-    TWTweetComposeViewController *tweetsheet = [[TWTweetComposeViewController alloc] init];
-    [tweetsheet setInitialText:dateStr];
-    [self.viewController presentModalViewController:tweetsheet animated:YES];
-}
+
 - (void) openlink:(CDVInvokedUrlCommand *)command {
     NSString *dateStr = [command.arguments objectAtIndex:0];
     //  [[self sharedApplication] openURL:[dateStr]];
